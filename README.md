@@ -14,3 +14,4 @@ List Algoritm Collection :
 4. Binary Gap
 5. Diagonal Difference
 6. Cyclic Rotation
+7. Reverse Number
